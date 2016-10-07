@@ -61,7 +61,7 @@ repo: vietanhdevdotcom
 branch: master
 relative_source: ../vietanhdevdotcom/
 destination: ../vietanhdevdotcom-pages/
-production_url:  https://vietanhdev.github.io/vietanhdevdotcom/
+production_url:  https://vietanhdev.com/vietanhdevdotcom/
 source_url:      https://github.com/vietanhdev/vietanhdevdotcom/
 
 exclude:
